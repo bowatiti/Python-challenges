@@ -1,3 +1,5 @@
+# Write a Python program that prints the length of a string s
+
 str = "Some ways to get the length of a string "
 
 # using a Built-in function
